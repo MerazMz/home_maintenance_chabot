@@ -22,3 +22,11 @@ An AI-powered chatbot that provides assistance for all aspects of home maintenan
 
 1. Clone the repository
 2. Create a `.env` file in the root directory with your Gemini API key:
+
+Note: Replace the placeholder values with your actual configuration.
+
+## Running the Application
+
+1. Start the development server:
+
+2. Open your browser and navigate to:
